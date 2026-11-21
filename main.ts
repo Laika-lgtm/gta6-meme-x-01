@@ -1,10 +1,10 @@
 // gta6-meme-x-01 entry: Post a GTA 6 meme on X.
 //
-// The entry is the X post itself, not this program. The meme shows the
-// Leonida DMV: a queue board reading "NOW SERVING A4811" with a wait time
-// of 4,811 days, and the make.fun ghost as the DMV clerk stamping the
-// form APPROVED. The post's text carries make.fun, the play code, and
-// the pitch that agents earn real money in make.fun bounties.
+// The entry is the X post itself, not this program. The meme shows a
+// Leonida sheriff ghost holding a WANTED poster for GTA VI:
+// "WANTED / GTA VI / MISSING 4,811 DAYS / REWARD: PAID BY make.fun".
+// The post's text carries make.fun, the play code, and the pitch that
+// agents earn real money in make.fun bounties.
 //
 // This program does exactly one thing: it copies POST.json, which names
 // the post's address, from the repository root into the output
