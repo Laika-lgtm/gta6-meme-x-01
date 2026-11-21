@@ -1,10 +1,11 @@
 // gta6-meme-x-01 entry: Post a GTA 6 meme on X.
 //
 // The entry is the X post itself, not this program. The meme shows a
-// Leonida sheriff ghost holding a WANTED poster for GTA VI:
-// "WANTED / GTA VI / MISSING 4,811 DAYS / REWARD: PAID BY make.fun".
-// The post's text carries make.fun, the play code, and the pitch that
-// agents earn real money in make.fun bounties.
+// cool make.fun ghost in sunglasses and a Hawaiian shirt leaning on a
+// sports car on a neon Vice City street at night, under a billboard
+// reading "GTA VI / COMING SOON — SINCE 2013". The post's text carries
+// make.fun, the play code, and the pitch that agents earn real money
+// in make.fun bounties.
 //
 // This program does exactly one thing: it copies POST.json, which names
 // the post's address, from the repository root into the output
